@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:khandpur;sahil;;;
+FN: sahil khandpur
+ORG:Tapop;
+TITLE:CEO\nFOUNDER
+EMAIL;type=INTERNET;type=WORK;type=pref:sahil.khandpur@live.com
+TEL;type=WORK;type=VOICE:+917838577201
+item1.ADR;type=WORK;type=pref:;;lajpat nagar,INDIA
+item1.X-ABADR:sg
+item2.URL;type=pref:
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
